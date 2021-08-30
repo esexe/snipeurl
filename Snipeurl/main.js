@@ -2,6 +2,10 @@ const Discord = require('discord.js'),
       client = new Discord.Client(),
       moment = require("moment-timezone");
 
+/*
+* By D0wzy, 2021 - https://github.com/D0wzy
+*/
+
 class Main {
     constructor() {
         this.sniperInterval;
